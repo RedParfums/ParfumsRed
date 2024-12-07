@@ -5,7 +5,7 @@
         <!-- Marque avec logo -->
         <router-link class="navbar-brand d-flex align-items-center text-success logo h1" to="/">
           <img
-            src="@/assets/images/logo.png"
+            src="/public/assets/images/logo.png"
             alt="Logo Red Parfums"
             class="me-2"
             style="width: 80px; height: 80px;"

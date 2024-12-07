@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-lg-5 mt-5">
                     <div class="card mb-3 text-center d-flex justify-content-center align-items-center">
-                        <img class="" :src="product.image_url" alt="Perfume image"
+                        <img class="" :src="`/assets/images/perfume/perfume${product.id}.png`"  alt="Perfume image"
                             style="height: 500px; width: 350px; object-fit: cover;">
                     </div>
                 </div>

@@ -1,13 +1,13 @@
 [
     {
       "id": 1,
-      "name": "Eau de Parfum Example",
+      "name": "Eau de Parfum Exampleeeee",
       "brand": "Brand A",
       "description": "A floral fragrance with hints of jasmine and rose.",
       "price": 50.99,
       "volumes": ["50ml", "100ml"],
       "category": "Parfum",
-      "rating": 5,
+      "rating": 4,
       "monthCategories": false,
       "featuredProduct": true
     },

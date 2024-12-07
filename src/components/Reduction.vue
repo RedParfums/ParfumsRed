@@ -3,7 +3,7 @@
         <div class="row align-items-center">
             <!-- Sale Product Image -->
             <div class="col-md-6">
-                <img src="../assets/images/salePerfume.png" class="img-fluid" alt="Sale Perfume" />
+                <img src="/public/assets/images/salePerfume.png" class="img-fluid" alt="Sale Perfume" />
             </div>
             <!-- Sale Content -->
             <div class="col-md-6 text-center text-end">

@@ -12,7 +12,7 @@
         <div class="row">
             <div v-for="product in monthProducts" :key="product.id" class="col-12 col-md-4 p-5 mt-3">
                 <a :href="`shop/${product.id}`">
-                    <img :src="product.image_url" class="rounded-circle img-fluid border" :alt="product.name" />
+                    <img :src="`./public/assets/images/perfume/perfume${product.id}.png`"  class="rounded-circle img-fluid border" :alt="product.name" />
                 </a>
                 <h5 class="text-center mt-3 mb-3">{{ product.name }}</h5>
                 <p class="text-center">
