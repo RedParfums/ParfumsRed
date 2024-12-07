@@ -7,7 +7,7 @@
             <p>{{ description }}</p>
           </div>
           <div class="col-md-4">
-            <img src="/public/assets/images/AU.png" alt="Image de notre histoire" class="img-fluid" style="height: auto; max-width: 100%; max-height: 500px;">
+            <img src="/public/images/AU.png" alt="Image de notre histoire" class="img-fluid" style="height: auto; max-width: 100%; max-height: 500px;">
           </div>
         </div>
       </div>

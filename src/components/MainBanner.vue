@@ -6,7 +6,7 @@
                     <div class="row p-5">
                         <!-- Section image -->
                         <div class="mx-auto col-md-8 col-lg-6 order-lg-last">
-                            <img class="img-fluid rounded" src="/public/assets/images/mainPerfume.png" alt="Image de la bouteille de parfum"
+                            <img class="img-fluid rounded" src="/public/images/mainPerfume.png" alt="Image de la bouteille de parfum"
                                 style="width: 500px; height: 600px; object-fit: cover;">
                         </div>
 

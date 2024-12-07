@@ -9,7 +9,7 @@
 import Header from '@/components/Header.vue';
 import Footer from '@/components/Footer.vue';
 import Banner from '@/components/AboutUsBanner.vue';
-import Service from '@/components/service.vue';
+import Service from '@/components/Service.vue';
 
 export default {
   components: {
